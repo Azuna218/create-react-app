@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "target": "es2015",  
+        "lib": ["es2015", "dom"],
+        "downlevelIteration": true,
+      "allowJs": true,
+      "skipLibCheck": true,
+      "esModuleInterop": true,
+      "jsx": "react-jsx",
+      "moduleResolution": "node",
+      "module": "ESNext",
+      "strict": true,
+      "noEmit": true,
+      "resolveJsonModule": true
+    },
+    "include": [
+      "src"
+    ]
+  }
+  
